@@ -19,9 +19,9 @@ terminal-border: "0"
   left = 35%
   width = 30%
   height = 60%
-  item_font = "DejaVu Sans Regular 24"
-  item_color = "#cccccc"
-  selected_item_color = "#ffffff"
+  item_font = "Soniano Sans Unicode Regular 32"
+  item_color = "#E8E8E8"
+  selected_item_color = "#FFFFFF"
   icon_width = 48
   icon_height = 48
   item_icon_space = 24
@@ -40,7 +40,7 @@ terminal-border: "0"
   fg_color = "#AF8043"
   bg_color = "#0E0E0E"
   border_color = "#303030"
-  text = "Booting in %d..."
-  font = "DejaVu Sans 24"
-  text_color = "#ffffff"
+  text = "Booting in %ds..."
+  font = "CamingoCode Regular 20"
+  text_color = "#E8DCC8"
 }
